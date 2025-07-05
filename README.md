@@ -2,6 +2,8 @@
 
 A simple Bash script to automatically set grayscale desktop wallpapers with motivational quotes from ZenQuotes API.
 
+![Wallpaper screenshot](https://raw.githubusercontent.com/shehjaddev/zen-quote-wallpapers/refs/heads/master/wallpaper.jpg)
+
 ## Features
 - Downloads grayscale wallpapers from Picsum Photos
 - Overlays random motivational quotes from ZenQuotes API
